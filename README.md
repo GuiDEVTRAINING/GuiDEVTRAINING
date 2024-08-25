@@ -1,6 +1,4 @@
 ## Bem-vindo(a) ao meu perfil 😁
-Estudante de Programação | Focado em Desenvolvimento WEB | Focando no Full Stack | Aprendendo HTML, CSS e JavaScript
-##
 
  <div>
    <a href="https://github.com/GuiDEVTRAINING">
